@@ -1,0 +1,109 @@
+That's awesome! Learning React at 9 is super cool. Here's a simple explanation:
+
+### **What is React?**
+- **React** is a tool to help you build websites that can change without reloading the page. 
+- Imagine you are building a game where the score updates instantly on the screen. React helps you do that in an easy way.
+
+### **What is Vite?**
+- **Vite** is a helper for React (and other tools) that makes your code load super fast when you're building your website.
+- Think of it like a "magic oven" that cooks your website quickly so you can see the results immediately.
+
+Want to try some examples? 😊
+
+
+
+
+
+React ko banane ka reason web development ko aasan aur fast banana tha. Pehle websites banane ke liye bohot saari complex coding karni padti thi, especially agar kisi page ko update karna ho bina pura page reload kare.
+React banane ka main reason:
+
+    Dynamic Websites: Websites jisme content baar-baar change hota hai (jaise Facebook ka news feed), unhe efficiently handle karna React ka goal tha.
+        Pehle har choti-choti change ke liye pura page reload karna padta tha.
+        React ek special system banata hai (Virtual DOM) jo sirf wahi cheezein update karta hai jo zarurat hai.
+
+    Reusability: React components ka concept laaye, jisme aap ek feature ek baar bana lo aur usse har jagah reuse kar sakte ho.
+        Example: Button ya Navbar ko baar-baar naye code ke bina reuse karna.
+
+    Developer Productivity: Developers ka kaam asaan aur tezi se karne ke liye React introduce kiya gaya.
+
+React ko Facebook ke developers ne banaya tha 2013 mein, kyunki unko khud apne platform (Facebook) ke liye fast aur dynamic web experience ki zarurat thi. Ab ye har tarah ki websites banane mein use hota hai! 😊
+
+
+
+What is Vite?
+
+    Vite is a helper for React (and other tools) that makes your code load super fast when you're building your website.
+    Think of it like a "magic oven" that cooks your website quickly so you can see the results immediately.
+
+Want to try some examples? 😊
+
+
+
+
+
+
+Vite kya krta hai??
+
+Vite na tere jo bhi code tu likhti hai usko realtime mai update krta rehta hai web par 
+jaise maine agr apne vs code mai 
+
+Hello world likha 
+
+jaise he likha web pe update hogaya mujhe jake refresh ni krna pada 
+
+How?? -> vite or babel or ...many more 
+
+
+translation kaise hota hai??
+
+Trsnalation in the sense jo tune code likha na 
+wo likha react mai or angular mai or veue,js mai orr ......
+usko html css js mai kon krega 
+
+Node engine: mai karunga
+
+
+
+
+
+
+
+Humko aconewsweb.netlify.app 
+ko banana hai jaise !!
+
+
+Maine isme dekha 2 pages hai 
+1)news page / home page 
+2)ek hai about page 
+
+
+App.jsx mai maine dono pages ke route define krdiye 
+
+
+ab newspage mai maine dekha yaar banana hai too 
+4 components lagenge 
+
+maine charo ko alg alg files mai banaya phele 
+
+navbar.jsx
+hero.jsx
+newssection.jsx
+footer.jsx
+
+ye maine jaise 4 components jo mujhe news page banane ke liye chaiye thee bana liye 
+
+Ab inn charo ko maine 
+News.jsx mai import krwa liya 
+
+mera news page complete hogaya hai 
+
+
+
+
+
+Ab same for About page 
+maine phele yaha pe dekha same yaar 8 components needed hai 
+
+
+
+
